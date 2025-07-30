@@ -4,7 +4,7 @@ Hi 👋 My name is Shumaila Naz
 Data Scientist
 --------------
 
-Passionate data scientist with a strong foundation in mathematics, statistics, and data science. With over a decade of experience in accounting and a deep expertise in data analysis, I specialize in transforming raw data into actionable insights. My journey in data science is fueled by a commitment to continuous learning and innovation, from mastering machine learning algorithms to building dynamic data visualizations. Let's connect and collaborate on projects that make data-driven dreams a reality. 🚀
+Passionate data scientist with a strong foundation in data science, mathematics and statistics. With over a decade of experience in accounting and a deep expertise in data analysis, I specialize in transforming raw data into actionable insights. My journey in data science is fueled by a commitment to continuous learning and innovation, from mastering machine learning algorithms to building dynamic data visualizations. Let's connect and collaborate on projects that make data-driven dreams a reality. 🚀
 
 * 🌍  I'm based in Dubai, United Arab Emirates
 * 🖥️  See my portfolio at [My Portfolio](http://www.shumailanaz.com/)
